@@ -1,4 +1,4 @@
-
+![](/images/Raman_"Chandra"_Chandrasekar.jpg)  
 Institute for Experiential AI, Northeastern University  
 Seattle, WA Campus    
 [r.chandrasekar at northeastern.edu](mailto:r.chandrasekar@northeastern.edu)  
