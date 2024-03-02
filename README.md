@@ -1,4 +1,4 @@
-<img src="/images/RamanChandrasekar.jpg" alt="Chandra" width="50" height="50">     
+<img src="/images/RamanChandrasekar.jpg" alt="Chandra" width="120" height="120">     
 Institute for Experiential AI, Northeastern University  
 Seattle, WA Campus    
 [r.chandrasekar at northeastern.edu](mailto:r.chandrasekar@northeastern.edu)  
