@@ -19,7 +19,7 @@ deploying applications in areas such as web-scale search, text mining, topical n
 [Semantic Scholar](https://www.semanticscholar.org/author/Raman-Chandrasekar/35893789)  
 
 #### Patents
-<a href="https://ppubs.uspto.gov/pubwebapp/external.html?q=\(Raman\).in. AND \(Chandrasekar\).in. NOT \(Kansas\).aann&db=USPAT">Link to US Patent Search</a>  
+<a href="https://ppubs.uspto.gov/pubwebapp/external.html?q=(Raman).in. AND (Chandrasekar).in. NOT (Kansas).aann&db=USPAT" target="_blank">Link to US Patent Search</a>  
 
 #### Selected Publications, Presentations
 [Papers etc.](/papers/README.md)
