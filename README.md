@@ -20,5 +20,5 @@ deploying applications in areas such as web-scale search, text mining, topical n
 [Link to US Patent Search](https://ppubs.uspto.gov/pubwebapp/external.html?q=\(Raman\).in. AND \(Chandrasekar\).in. NOT \(Kansas\).aann&db=USPAT)  
 
 #### Selected Publications, Presentations
-[Papers etc.](/about/README.md)
+[Papers etc.](/papers/README.md)
 
