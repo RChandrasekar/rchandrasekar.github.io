@@ -1,4 +1,4 @@
-### Selected Papers
+### Selected Papers, Presentations
 
 1. Church, Kenneth Ward and Raman Chandrasekar.   
 [Emerging trends: Risks 3.0 and proliferation of spyware to 50,000 cell phones.](https://www.cambridge.org/core/journals/natural-language-engineering/article/emerging-trends-risks-30-and-proliferation-of-spyware-to-50000-cell-phones/E493E2949551DB0D1CCB3C873E30C143)  
@@ -9,3 +9,9 @@ Nat. Lang. Eng. 29 (2023): 824 - 841.
 Nat. Lang. Eng. 29 (2022): 483-508.
 
 
+
+
+3. Raman Chandrasekar.
+[Evaluating the ‘Finding’ Experience: Test the Process, not the Result]
+(https://archives.iw3c2.org/www2002/presentations/chandrasekar.pdf)
+Panel Presentation, WWW 2002, Hawai’i, 2002.
