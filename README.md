@@ -1,6 +1,8 @@
-<img src="/images/RamanChandrasekar.jpg" alt="Chandra" width="120" height="120">     
-Institute for Experiential AI, Northeastern University  
-Seattle, WA Campus    
+<img src="/images/RamanChandrasekar.jpg" alt="Chandra" width="120" height="120">  
+
+**Raman Chandrasekar**  \
+Institute for Experiential AI, Northeastern University  \
+Seattle, WA Campus  \
 [r.chandrasekar at northeastern.edu](mailto:r.chandrasekar@northeastern.edu)  
 
 
@@ -17,7 +19,7 @@ deploying applications in areas such as web-scale search, text mining, topical n
 [Semantic Scholar](https://www.semanticscholar.org/author/Raman-Chandrasekar/35893789)  
 
 #### Patents
-[Link to US Patent Search](https://ppubs.uspto.gov/pubwebapp/external.html?q=\(Raman\).in. AND \(Chandrasekar\).in. NOT \(Kansas\).aann&db=USPAT)  
+<a href="https://ppubs.uspto.gov/pubwebapp/external.html?q=\(Raman\).in. AND \(Chandrasekar\).in. NOT \(Kansas\).aann&db=USPAT">Link to US Patent Search</a>  
 
 #### Selected Publications, Presentations
 [Papers etc.](/papers/README.md)
