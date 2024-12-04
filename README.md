@@ -12,14 +12,13 @@ deploying applications in areas such as web-scale search, text mining, topical n
 [Slightly longer bio](/about/longerBio.md)  
 [Much longer CV](/about/RamanChandrasekarCVfeb2024.pdf)  
 
-#### Publications
+#### List of Publications
 [Google Scholar](https://scholar.google.com/citations?user=zZhCPGkAAAAJ&hl=en)  
 [Semantic Scholar](https://www.semanticscholar.org/author/Raman-Chandrasekar/35893789)  
-
 
 #### Patents
 [Link to US Patent Search](https://ppubs.uspto.gov/pubwebapp/external.html?q=\(Raman\).in. AND \(Chandrasekar\).in. NOT \(Kansas\).aann&db=USPAT)  
 
-
-
+#### Selected Publications, Presentations
+[Papers etc.](/about/README.md)
 
